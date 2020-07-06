@@ -1,1 +1,1 @@
-# C_asmExample * nostalgia of torment
+C + external asm function
